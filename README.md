@@ -1,9 +1,11 @@
 Nhóm 3
 Thành viên trong nhóm: 
+
     Nguyễn Trọng Hạnh Phúc   S158665
     Bùi Minh Thành           S1546365
     Nguyễn Tiến Dũng         49565
     Nguyễn Hoàng Nam         141565
+    
 Dự án AI - Trích xuất thông tin từ căn cước công dân
 Giới thiệu
 Dự án này sử dụng các công nghệ và thư viện hiện đại để xây dựng một hệ thống trích xuất thông tin tự động từ hình ảnh căn cước công dân. Hệ thống có thể phát hiện, nhận diện, và trích xuất các trường dữ liệu quan trọng như họ tên, ngày sinh, số căn cước, địa chỉ, v.v. Mục tiêu của dự án là tạo ra một giải pháp hiệu quả và chính xác để hỗ trợ số hóa dữ liệu.
